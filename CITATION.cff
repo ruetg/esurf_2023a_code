@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper - Optimising global landscape evolution models with 10Be in Earth Surface Dynamics."
+authors:
+- family-names: "Gregory"
+  given-names: "Ruetenik"
+- family-names: "John"
+  given-names: "Jansen"
+- family-names: "Pedro"
+  given-names: "Val"
+- family-names: "Lotta"
+  given-names: "Ylä-Mella"
+title: "esurf-2023a-code"
+version: 1.0.0
+date-released: 2023-09-04
+url: "https://github.com/ruetg/esurf-2023a-code"
