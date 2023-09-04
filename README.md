@@ -1,9 +1,9 @@
 # lem_optimize
-Supplementary examples and functions for Ruetenik, G.A., Jansen, J.D., Val, P., and Ylä-Mella, L., "Optimising global landscape evolution models with 10Be"
+This code performs a monte-carlo based iterative search for optimal landscape evolution parameters among a global (or select) set of drainage basins.
 
 The global optimisation can be run via the montecarlo.py script, where model parameters are described there and in the text of the manuscript.
 
-The octopus data is found here - this is only to be used for the examples.  For real applications users should download the latest version from the OCTOPUS website ( https://octopusdata.org/ ):
+The octopus data is found here - this is only to be used for the examples.  For new applications users should download the latest version from the OCTOPUS website ( https://octopusdata.org/ ):
 
 With duplicates: https://drive.google.com/drive/folders/1yZJKymW6fAN8Gi4k0AdpU1Fxxo9cx4-S?usp=sharing
 
