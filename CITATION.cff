@@ -1,15 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the accompanying paper - Optimising global landscape evolution models with 10Be in Earth Surface Dynamics."
+message: "If you use this code, please cite the accompanying paper - Optimising global landscape evolution models with 10Be in Earth Surface Dynamics."
 authors:
 - family-names: "Ruetenik"
   given-names: "Gregory A."
+  affiliation: "Czech Academy of Sciences, Institute of Geophysics"
 - family-names: "Jansen"
   given-names: "John D."
+  affiliation: "Czech Academy of Sciences, Institute of Geophysics"
 - family-names: "Val"
   given-names: "Pedro"
-- family-names: "Yla-Mella"
+  affiliation: "School of Earth and Environmental Sciences, Queens College, City University of New York"
+- family-names: "Ylä-Mella"
   given-names: "Lotta"
-title: "esurf-2023a-code"
+  affiliation: "Department of Physical Geography and Geoecology, Charles University, Prague"
+title: "Code and data for Ruetenik et al., (2023): Optimising global landscape evolution models with 10Be"
 version: 1.0.0
 date-released: 2023-09-04
 url: "https://github.com/ruetg/esurf_2023a_code"
